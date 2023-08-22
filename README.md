@@ -23,8 +23,14 @@ Bonus Feature (Optional):Redux is used to store chat messages and conversations,
 
 How to Run :-
 Install dependencies : npm install
+
+
 Start the development server : npm start
+
+
 Build the development file : npm run build
+
+
 Hosted Website Link : https://chatappreactproject.netlify.app/#/
 
 Technologies Used :-
