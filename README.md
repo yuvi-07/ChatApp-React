@@ -37,11 +37,17 @@ Technologies Used :-
 React
 React Router
 Redux (Optional, for bonus feature)                
-CSS (for styling)                                                                                                                                                     
+CSS (for styling)        
+
+
 ![Screenshot (3465)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/bf73ff92-5312-4526-b6ee-4079a10a1437)
 
 
+
+
 ![Screenshot (3466)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/42ad3baf-6a2a-43ab-9908-5595464e65ba)
+
+
 
 
 ![Screenshot (3467)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/5b24a944-772d-4498-8621-36d70f5030d5)
