@@ -35,9 +35,13 @@ Hosted Website Link : https://chatappreactproject.netlify.app/#/
 
 Technologies Used :-
 React
+
 React Router
-Redux (Optional, for bonus feature)                
+
+Redux (Optional, for bonus feature) 
+
 CSS (for styling)        
+
 
 
 ![Screenshot (3465)](https://github.com/ABHINEET4/ChatApp-React-Coding-Ninjas/assets/108821830/bf73ff92-5312-4526-b6ee-4079a10a1437)
