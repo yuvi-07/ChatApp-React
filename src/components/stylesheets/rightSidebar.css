@@ -1,19 +1,28 @@
 .no-chat-background {
-    background-color: #a04bb9;
+  text-align: center;
+  color: #f5f5f5;
+}
+.no-chat-background h2{
+   margin-top: 150px;
+    font-size: 50px;
+  }
+  .no-chat-background img{
+    width: 200px;
+    margin: 30px;
   }
   .message-box {
     height: 95vh;
     overflow: auto;
+   background-image: url("https://mcdn.wallpapersafari.com/medium/12/90/TyLtep.jpg");
   }
   /* header */
   .message-box-header {
-    background: rgb(37, 23, 53);
+    background-color: #43314F;
     position: fixed;
     top: 0;
     width: 100%;
     box-sizing: border-box;
     z-index: 3;
-    box-shadow: 0 4px 8px 0 rgba(216, 213, 216, 0.2), 0 6px 20px 0 rgba(111, 196, 174, 0.336);
   }
   
   .messages-section {
@@ -22,6 +31,7 @@
     flex-direction: column;
     justify-content: space-around;
     padding: 30px 40px;
+    color: #f5f5f5;
   }
   .message-bubble {
     display: flex;
@@ -38,8 +48,10 @@
     left: 60%;
     font-size: 18px;
     color: #fff;
-    background-color: rgb(93, 196, 173);
+    background-color: #5D6383;
     padding: 1.2rem;
+    border-radius: 20px;
+    
   }
   @media screen and (max-width: 622px) {
     .no-message-alert {
@@ -51,7 +63,7 @@
     width: 220px;
     height: auto;
     display: block;
-    background: #f0fe86;
+    background: #2b2b2a;
     border-radius: 4px;
     position: relative;
     margin: 15px 0;
@@ -87,7 +99,10 @@
     font-weight: 600;
     font-size: 13px;
     margin: 0 0 4px;
-    color: #3498db;
+    color: #CCD8E0;
+  }
+  .right-name{
+    color: #CCD8E0;
   }
   .message-timestamp {
     font-size: 11px;
@@ -95,7 +110,7 @@
     bottom: 8px;
     right: 10px;
     text-transform: uppercase;
-    color: black;
+    color: rgb(175, 174, 174);
   }
   .bubble-arrow {
     position: absolute;
@@ -119,7 +134,7 @@
     width: 220px;
     height: auto;
     display: block;
-    background: #c93ba5e0;
+    background-color: #5D6383;
     border-radius: 4px;
     position: relative;
     margin: 10px 0;
@@ -143,8 +158,8 @@
   }
   /* message-input */
   .message-input {
-    background: rgb(45, 0, 128);
-    position: fixed;
+    background-color: #43314F;
+     position: fixed;
     bottom: 0;
     width: 100%;
     padding: 12px;
@@ -159,7 +174,7 @@
   
   /* send button  css */
   .send-button {
-    background-color: rgb(32, 218, 94);
+    background-color: #5D6383;
     width: 30%;
     color: white;
     padding: 6px;

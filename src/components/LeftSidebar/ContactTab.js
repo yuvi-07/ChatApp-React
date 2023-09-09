@@ -9,7 +9,7 @@ function ContactTab(props) {
   let length = chatlog.length;
 
   const noMessage = {
-    text: " 0 message Conversation not initiated",
+    text: " 0 message. Conversation not started...",
   };
   return (
     <Link to={`/conversations/${id}`} className="link-tag">

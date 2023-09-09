@@ -33,7 +33,7 @@ function MessageInput(props) {
         </Col>
         <Col xs={3} lg={4}>
           <button className="send-button" onClick={handleSubmit}>
-            Send
+            Send  <i className="fa-regular fa-paper-plane"></i>
           </button>
         </Col>
       </Row>

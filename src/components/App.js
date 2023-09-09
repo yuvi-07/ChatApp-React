@@ -56,12 +56,7 @@ function App() {
                   <NewConversation showNewConvoTab={showNewConvoTab} />
                 </Col>
               </Row>
-              <Row
-                style={{
-                  margin: "auto",
-                  paddingTop: "px",
-                }}
-              >
+              <Row style={{margin: "auto",paddingTop: "px",}}>
                 <SearchBar searchChange={onSearchChange} />
               </Row>
             </Row>
